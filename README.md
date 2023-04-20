@@ -17,6 +17,6 @@
   
   
   # Screenshot
-  ![LogIn](![image](https://user-images.githubusercontent.com/55540307/233272626-f0b33db3-20bf-4562-a340-f8fab3f6a075.png))
-  ![Data Analysis](![image](https://user-images.githubusercontent.com/55540307/233272302-64b023d3-a082-4992-ad2d-5f5a8fcb0030.png))
+  ![LogIn](![Screenshot 2023-04-20 113931](https://user-images.githubusercontent.com/55540307/233273896-1d62e80a-a4d1-4921-bc32-94945ae10571.png))
+  ![Data Analysis](![Screenshot 2023-04-20 114117](https://user-images.githubusercontent.com/55540307/233273810-b3e29a32-0221-46ff-94b5-2d43b0f275b7.png))
   
