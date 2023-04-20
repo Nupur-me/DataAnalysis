@@ -16,7 +16,3 @@
   ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
   
   
-  # Screenshot
-([Screenshot 2023-04-20 113931](https://user-images.githubusercontent.com/55540307/233273896-1d62e80a-a4d1-4921-bc32-94945ae10571.png))
-([Screenshot 2023-04-20 114117](https://user-images.githubusercontent.com/55540307/233273810-b3e29a32-0221-46ff-94b5-2d43b0f275b7.png))
-  
